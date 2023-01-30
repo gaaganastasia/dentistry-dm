@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.33061ee0.css",
-    "main.js": "./static/js/main.677bcf18.js",
+    "main.css": "./static/css/main.d1b340f0.css",
+    "main.js": "./static/js/main.9a9053bb.js",
     "static/media/services-page-back.png": "./static/media/services-page-back.1012624c2f6610a17e18.png",
     "static/media/about-photo-1.png": "./static/media/about-photo-1.cd76a51654c8caf7e0a8.png",
     "static/media/about-photo-4.png": "./static/media/about-photo-4.73c8cb157462f9b9ad26.png",
@@ -17,6 +17,7 @@
     "static/media/expert-doc-elizarova-ee-s1.png": "./static/media/expert-doc-elizarova-ee-s1.70a2471d7265ca887990.png",
     "static/media/expert-doc-petrova-mu-s1.png": "./static/media/expert-doc-petrova-mu-s1.3272ea0a477838ca68d5.png",
     "static/media/expert-doc-nimaeva-ev-s2.png": "./static/media/expert-doc-nimaeva-ev-s2.69f77159b1908758aa51.png",
+    "static/media/stock-8march.png": "./static/media/stock-8march.dbb819a075c821754102.png",
     "static/media/expert-doc-nimaev-ab-s1.png": "./static/media/expert-doc-nimaev-ab-s1.2cafb758561fed8e6e06.png",
     "static/media/stock-review.png": "./static/media/stock-review.bf532a6bcc03d1c4c4d3.png",
     "static/media/expert-doc-nimaeva-ev-s1.png": "./static/media/expert-doc-nimaeva-ev-s1.77721d31fdea90773605.png",
@@ -48,6 +49,7 @@
     "static/media/OpenSans-Regular.ttf": "./static/media/OpenSans-Regular.1c0a329c683d91fc91aa.ttf",
     "static/media/OpenSans-Italic.eot": "./static/media/OpenSans-Italic.9a1eecee6364bf687561.eot",
     "static/media/OpenSans-Italic.ttf": "./static/media/OpenSans-Italic.fe765814cb2a18549fb8.ttf",
+    "static/media/stock-8march-320.png": "./static/media/stock-8march-320.7cca87a17c64f22b8a81.png",
     "static/media/OpenSans-SemiBold.woff": "./static/media/OpenSans-SemiBold.c7a3ffd87605fb2f5cab.woff",
     "static/media/OpenSans-Regular.woff": "./static/media/OpenSans-Regular.229564cad5daae8ae40b.woff",
     "static/media/OpenSans-Italic.woff": "./static/media/OpenSans-Italic.69e722dfb542e5d4f68f.woff",
@@ -75,11 +77,11 @@
     "static/media/arrow-active.svg": "./static/media/arrow-active.92b70a32845d168fa4e1.svg",
     "static/media/arrow-hover.svg": "./static/media/arrow-hover.8b8a9bb031a13058a5b3.svg",
     "static/media/arrow.svg": "./static/media/arrow.ca0a4ca4503d649156cc.svg",
-    "main.33061ee0.css.map": "./static/css/main.33061ee0.css.map",
-    "main.677bcf18.js.map": "./static/js/main.677bcf18.js.map"
+    "main.d1b340f0.css.map": "./static/css/main.d1b340f0.css.map",
+    "main.9a9053bb.js.map": "./static/js/main.9a9053bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.33061ee0.css",
-    "static/js/main.677bcf18.js"
+    "static/css/main.d1b340f0.css",
+    "static/js/main.9a9053bb.js"
   ]
 }
